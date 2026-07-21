@@ -80,11 +80,3 @@ This project is licensed under the **MIT License**.
 
 You are free to use, modify, and distribute this project in accordance with the license terms.
 
-⭐ Support the Project
-## ⭐ Support the Project
-
-If you find **Agrinova AI** useful or interesting, please consider giving this repository a ⭐ on GitHub!
-
-Your support and feedback are greatly appreciated. 💚
-
-> 🌾 Smart Agriculture • 🤖 Artificial Intelligence • 🌱 Sustainable Future
