@@ -1,0 +1,6 @@
+{
+  "name": "AgriNova AI",
+  "description": "An intelligent farming ecosystem that helps farmers increase profits, reduce risks, improve crop quality, and make data-driven decisions using Artificial Intelligence, Computer Vision, and Smart Automation.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
