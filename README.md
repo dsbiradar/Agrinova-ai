@@ -66,23 +66,25 @@ Agrinova-ai/
 ├── tsconfig.json
 ├── vite.config.ts
 └── src/
-🔒 Security Note
-Never share or upload your real Gemini API key publicly.
-If an API key is accidentally exposed:
-Revoke the exposed key.
-Generate a new API key.
-Store the new key only in the .env file.
-Make sure .env is included in .gitignore.
-👩‍💻 Author
-Built with ❤️ by Dhaneshwari S Biradar
-GitHub: @dsbiradar⁠�
-📄 License
-This project is licensed under the MIT License.
-⭐ If you like Agrinova AI, consider giving this repository a star!
+.
+## 👩‍💻 Author
 
-**Important:** In the README editor, use **Ctrl + A → Delete → paste the full content above → Commit changes**.
+### Built with ❤️ by Dhaneshwari S Biradar
 
-Also, your current `.gitignore` looks correct because it contains:
+💻 GitHub: [@dsbiradar](https://github.com/dsbiradar)
 
-```text
-.env
+> 🌱 Building intelligent solutions for a smarter and more sustainable future.
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+You are free to use, modify, and distribute this project in accordance with the license terms.
+
+⭐ Support the Project
+## ⭐ Support the Project
+
+If you find **Agrinova AI** useful or interesting, please consider giving this repository a ⭐ on GitHub!
+
+Your support and feedback are greatly appreciated. 💚
+
+> 🌾 Smart Agriculture • 🤖 Artificial Intelligence • 🌱 Sustainable Future
