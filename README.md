@@ -209,21 +209,34 @@ Agrinova AI can be applied across multiple agricultural domains, including:
 
 ------
 
+---
+
 # 🌐 Live Demo
 
-Experience **Agrinova AI** in action and explore how Artificial Intelligence empowers smarter farming decisions, crop insights, and modern agricultural practices.
+Experience **Agrinova AI** in action and discover how Artificial Intelligence empowers smarter farming through intelligent crop insights, plant health analysis, and modern agricultural recommendations.
 
-### 🚀 **Try Agrinova AI**
+### 🚀 Try Agrinova AI
 
-🔗 **https://ai.studio/apps/6dd6606f-79b8-4f73-92df-e1c3f9def6d0**
+👉 **Live Demo:**  
+**https://agrinova-ai-198112457754.asia-southeast1.run.app**
 
-Or click here:
+Or simply click below:
 
-👉 **[Launch Agrinova AI](https://ai.studio/apps/6dd6606f-79b8-4f73-92df-e1c3f9def6d0)**
+🔗 **[Launch Agrinova AI](https://agrinova-ai-198112457754.asia-southeast1.run.app)**
 
-> **Explore AI-powered farming assistance, intelligent crop recommendations, plant health analysis, and smart agriculture solutions through the live application.**
+### 🌱 Explore the Platform
 
----
+- 🤖 AI-Powered Agriculture Assistant
+- 🌾 Smart Crop Insights
+- 🔍 Plant Health Analysis
+- 📊 Intelligent Agricultural Recommendations
+- 🌦 Smart Farming Guidance
+- 🧠 Google Gemini AI Integration
+- 📱 Responsive & Modern User Interface
+- 🌍 Sustainable Agriculture Support
+
+> **Experience the future of agriculture with Agrinova AI—an intelligent platform that helps farmers make data-driven decisions, improve crop productivity, and adopt sustainable farming practices using Artificial Intelligence.**
+
 
 # 💡 Why Agrinova AI?
 
@@ -251,10 +264,6 @@ Together, let's build the future of intelligent agriculture.
 
 ## **Dhaneshwari S Biradar**
 
-**Computer Science Engineering Student**
-
-**AI Developer • Full Stack Developer**
-
 **GitHub:** **@dsbiradar**
 
 > 🌱 **Building intelligent solutions for a smarter and more sustainable future.**
@@ -278,7 +287,5 @@ You are free to use, modify, and distribute this project in accordance with the 
 **Built with ❤️ by Dhaneshwari S Biradar**
 
 *"Empowering modern agriculture through Artificial Intelligence."*
-
-⭐ **If you found this project useful, don't forget to Star the Repository!**
 
 </div>
